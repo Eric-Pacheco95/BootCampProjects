@@ -1,0 +1,8 @@
+.gauge {
+    max-height: calc(200px + 80px);
+    overflow: hidden;
+}
+
+.container {
+    height: 2000px;
+}

@@ -1,0 +1,298 @@
+Country,Rank,Reserves,Year
+Venezuela ,1,300878.0,start_2017
+Saudi Arabia ,2,297700.0,start_2017
+Iran ,3,211600.0,start_2017
+Canada ,4,169709.0,start_2017
+Iraq ,5,142503.0,start_2017
+UAE ,6,105800.0,start_2017
+Kuwait ,7,101500.0,start_2017
+Russia ,8,80000.0,start_2017
+Libya ,9,48000.0,start_2017
+Nigeria ,10,37062.0,start_2017
+United States ,11,35000.0,start_2017
+Kazakhstan,12,30000.0,start_2017
+China,13,25620.0,start_2017
+Qatar,14,25244.0,start_2017
+Brazil,15,12999.0,start_2017
+Algeria,16,12200.0,start_2017
+Angola,17 / 18,8273.0,start_2017
+Ecuador,17 / 18,8273.0,start_2017
+Mexico ,20,7300.0,start_2017
+Azerbaijan,21,7000.0,start_2017
+Norway,22,6611.0,start_2017
+Oman,23,5373.0,start_2017
+India,24,4600.0,start_2017
+Egypt,25 / 26,4400.0,start_2017
+Vietnam,25 / 26,4400.0,start_2017
+Indonesia,27 / 28,3600.0,start_2017
+Malaysia,27 / 28,3600.0,start_2017
+Yemen,29,3000.0,start_2017
+United Kingdom,30,2564.0,start_2017
+Syria,31 / 32,2500.0,start_2017
+Uganda,31 / 32,2500.0,start_2017
+Argentina,33,2185.0,start_2017
+Colombia,34,2002.0,start_2017
+Gabon,35,2000.0,start_2017
+Australia,36,1821.0,start_2017
+"Congo, Republic of the ",37,1600.0,start_2017
+Chad,38,1500.0,start_2017
+Brunei,39 / 40,1100.0,start_2017
+Equatorial Guinea,39 / 40,1100.0,start_2017
+Ghana ,41,660.0,start_2017
+Romania,42 / 43,600.0,start_2017
+Turkmenistan,42 / 43,600.0,start_2017
+Uzbekistan,44,594.0,start_2017
+Italy,45,557.0,start_2017
+Denmark,46,491.0,start_2017
+Peru,47,473.0,start_2017
+Tunisia,48,425.0,start_2017
+Thailand,49,396.0,start_2017
+Ukraine,50,395.0,start_2017
+Pakistan,51,350.0,start_2017
+Turkey,52,300.0,start_2017
+Trinidad and Tobago,53,243.0,start_2017
+Bolivia,54,211.0,start_2017
+Cameroon,55,200.0,start_2017
+Belarus,56,198.0,start_2017
+"Congo, Democratic Republic of the ",57,180.0,start_2017
+Albania,58,168.0,start_2017
+Papua New Guinea,59,159.0,start_2017
+Chile,60 / 62,150.0,start_2017
+Niger,60 / 62,150.0,start_2017
+Spain,60 / 62,150.0,start_2017
+Germany,63,145.0,start_2017
+Myanmar,64,139.0,start_2017
+Philippines,65,139.0,start_2017
+Poland,66,138.0,start_2017
+Bahrain,67,125.0,start_2017
+Cuba ,68,124.0,start_2017
+Netherlands,69,113.0,start_2017
+Ivory Coast,70,100.0,start_2017
+Suriname,70,83.9,start_2017
+Guatemala,71,83.1,start_2017
+France,72,72.4,start_2017
+Serbia,73,77.5,start_2017
+Croatia,74,71.0,start_2017
+New Zealand,75,56.9,start_2017
+Japan,76,44.1,start_2017
+Austria,77,43.0,start_2017
+Kyrgyzstan,78,40.0,start_2017
+Georgia,79,35.0,start_2017
+Bangladesh,80,28.0,start_2017
+Hungary,81,25.1,start_2017
+Mauritania,82,20.0,start_2017
+Bulgaria,83 / 85,15.0,start_2017
+Czech Republic,83 / 85,,start_2017
+South Africa,83 / 85,,start_2017
+Israel,86,12.7,start_2017
+Lithuania,87 / 88,12.0,start_2017
+Tajikistan,87 / 88,12.0,start_2017
+Greece,89,10.0,start_2017
+Slovakia,90,9.0,start_2017
+Benin,91,8.0,start_2017
+Belize,92,6.7,start_2017
+Taiwan,93,2.38,start_2017
+Barbados,94,2.08,start_2017
+Jordan,95,1.0,start_2017
+Morocco,96,0.68,start_2017
+Ethiopia,97,0.43,start_2017
+Afghanistan,,0.0,start_2017
+World,,1779685.0,start_2017
+Venezuela ,1,302809.0,end_2017
+Saudi Arabia ,2,297700.0,end_2017
+Iran ,3,208600.0,end_2017
+Canada ,27,3800.0,end_2017
+Iraq ,4,147223.0,end_2017
+UAE ,7,97800.0,end_2017
+Kuwait ,6,101500.0,end_2017
+Russia ,7,80000.0,end_2017
+Libya ,8,74363.0,end_2017
+Nigeria ,9,37453.0,end_2017
+United States ,10,32773.0,end_2017
+Kazakhstan,11,30000.0,end_2017
+China,12,25627.0,end_2017
+Qatar,13,25244.0,end_2017
+Brazil,14,12634.0,end_2017
+Algeria,15,12200.0,end_2017
+Angola,16,8384.0,end_2017
+Ecuador,17,8273.0,end_2017
+Mexico ,19,6537.0,end_2017
+Azerbaijan,18,7000.0,end_2017
+Norway,20,6376.0,end_2017
+Oman,21,5373.0,end_2017
+India,23,4495.0,end_2017
+Egypt,24 / 25,4400.0,end_2017
+Vietnam,24 / 25,4400.0,end_2017
+Indonesia,29,3310.0,end_2017
+Malaysia,28,3600.0,end_2017
+Yemen,,,end_2017
+United Kingdom,32,2069.0,end_2017
+Syria,30,2500.0,end_2017
+Uganda,,,end_2017
+Argentina,31,2162.0,end_2017
+Colombia,34,1665.0,end_2017
+Gabon,33,2000.0,end_2017
+Australia,26,3985.0,end_2017
+"Congo, Republic of the ",,,end_2017
+Chad,,,end_2017
+Brunei,35,1100.0,end_2017
+Equatorial Guinea,,,end_2017
+Ghana ,,,end_2017
+Romania,,,end_2017
+Turkmenistan,36,600.0,end_2017
+Uzbekistan,37,594.0,end_2017
+Italy,,,end_2017
+Denmark,38,439.0,end_2017
+Peru,,,end_2017
+Tunisia,,,end_2017
+Thailand,,,end_2017
+Ukraine,39,395.0,end_2017
+Pakistan,,,end_2017
+Turkey,,,end_2017
+Trinidad and Tobago,,,end_2017
+Bolivia,,,end_2017
+Cameroon,,,end_2017
+Belarus,40,198.0,end_2017
+"Congo, Democratic Republic of the ",,,end_2017
+Albania,,,end_2017
+Papua New Guinea,,,end_2017
+Chile,,,end_2017
+Niger,,,end_2017
+Spain,,,end_2017
+Germany,,,end_2017
+Myanmar,,,end_2017
+Philippines,,,end_2017
+Poland,,,end_2017
+Bahrain,,,end_2017
+Cuba ,,,end_2017
+Netherlands,,,end_2017
+Ivory Coast,,,end_2017
+Suriname,,,end_2017
+Guatemala,,,end_2017
+France,,,end_2017
+Serbia,,,end_2017
+Croatia,,,end_2017
+New Zealand,,,end_2017
+Japan,,,end_2017
+Austria,,,end_2017
+Kyrgyzstan,,,end_2017
+Georgia,,,end_2017
+Bangladesh,,,end_2017
+Hungary,,,end_2017
+Mauritania,,,end_2017
+Bulgaria,,,end_2017
+Czech Republic,,15.0,end_2017
+South Africa,,15.0,end_2017
+Israel,,,end_2017
+Lithuania,,,end_2017
+Tajikistan,,,end_2017
+Greece,,,end_2017
+Slovakia,,,end_2017
+Benin,,,end_2017
+Belize,,,end_2017
+Taiwan,,,end_2017
+Barbados,,,end_2017
+Jordan,,,end_2017
+Morocco,,,end_2017
+Ethiopia,,,end_2017
+Afghanistan,,,end_2017
+World,,1535773.0,end_2017
+Venezuela ,1,300900.0,end_2015
+Saudi Arabia ,2,266000.0,end_2015
+Iran ,3,210600.0,end_2015
+Canada ,4,172200.0,end_2015
+Iraq ,5,143100.0,end_2015
+UAE ,8,97800.0,end_2015
+Kuwait ,6,101500.0,end_2015
+Russia ,6,102400.0,end_2015
+Libya ,9,78400.0,end_2015
+Nigeria ,11,37100.0,end_2015
+United States ,10,55000.0,end_2015
+Kazakhstan,12,30000.0,end_2015
+China,14,18500.0,end_2015
+Qatar,13,25244.0,end_2015
+Brazil,15,13000.0,end_2015
+Algeria,17,12200.0,end_2015
+Angola,16,12700.0,end_2015
+Ecuador,19 / 20,8000.0,end_2015
+Mexico ,18,10800.0,end_2015
+Azerbaijan,21,7000.0,end_2015
+Norway,19 / 20,8000.0,end_2015
+Oman,23,5300.0,end_2015
+India,22,5680.0,end_2015
+Egypt,29,3500.0,end_2015
+Vietnam,25,4000.0,end_2015
+Indonesia,27 / 28,3600.0,end_2015
+Malaysia,27 / 28,3600.0,end_2015
+Yemen,30,3000.0,end_2015
+United Kingdom,31,2800.0,end_2015
+Syria,32,2500.0,end_2015
+Uganda,,,end_2015
+Argentina,33,2400.0,end_2015
+Colombia,34,2300.0,end_2015
+Gabon,35,2000.0,end_2015
+Australia,26,4000.0,end_2015
+"Congo, Republic of the ",36,1600.0,end_2015
+Chad,37,1500.0,end_2015
+Brunei,39 / 40,1100.0,end_2015
+Equatorial Guinea,39 / 40,1100.0,end_2015
+Ghana ,,,end_2015
+Romania,42 / 46,600.0,end_2015
+Turkmenistan,42 / 46,600.0,end_2015
+Uzbekistan,42 / 46,600.0,end_2015
+Italy,42 / 46,600.0,end_2015
+Denmark,42 / 46,600.0,end_2015
+Peru,38,1400.0,end_2015
+Tunisia,47 / 48,400.0,end_2015
+Thailand,47 / 48,400.0,end_2015
+Ukraine,,,end_2015
+Pakistan,,,end_2015
+Turkey,,,end_2015
+Trinidad and Tobago,41,700.0,end_2015
+Bolivia,,,end_2015
+Cameroon,,,end_2015
+Belarus,,,end_2015
+"Congo, Democratic Republic of the ",,,end_2015
+Albania,,,end_2015
+Papua New Guinea,,,end_2015
+Chile,,,end_2015
+Niger,,,end_2015
+Spain,,,end_2015
+Germany,,,end_2015
+Myanmar,,,end_2015
+Philippines,,,end_2015
+Poland,,,end_2015
+Bahrain,,,end_2015
+Cuba ,,,end_2015
+Netherlands,,,end_2015
+Ivory Coast,,,end_2015
+Suriname,,,end_2015
+Guatemala,,,end_2015
+France,,,end_2015
+Serbia,,,end_2015
+Croatia,,,end_2015
+New Zealand,,,end_2015
+Japan,,,end_2015
+Austria,,,end_2015
+Kyrgyzstan,,,end_2015
+Georgia,,,end_2015
+Bangladesh,,,end_2015
+Hungary,,,end_2015
+Mauritania,,,end_2015
+Bulgaria,,,end_2015
+Czech Republic,,,end_2015
+South Africa,,,end_2015
+Israel,,,end_2015
+Lithuania,,,end_2015
+Tajikistan,,,end_2015
+Greece,,,end_2015
+Slovakia,,,end_2015
+Benin,,,end_2015
+Belize,,,end_2015
+Taiwan,,,end_2015
+Barbados,,,end_2015
+Jordan,,,end_2015
+Morocco,,,end_2015
+Ethiopia,,,end_2015
+Afghanistan,,,end_2015
+World,,1750600.0,end_2015
